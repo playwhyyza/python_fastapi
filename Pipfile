@@ -7,6 +7,17 @@ verify_ssl = true
 
 [packages]
 fastapi = "*"
+uvicorn = "*"
+email-validator = "*"
+ujson = "*"
+requests = "*"
+aiofiles = "*"
+jinja2 = "*"
+python-multipart = "*"
+graphene = "*"
+pyyaml = "*"
+pyjwt = "*"
+passlib = "*"
 
 [requires]
 python_version = "3.7"
