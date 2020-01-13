@@ -18,6 +18,7 @@ graphene = "*"
 pyyaml = "*"
 pyjwt = "*"
 passlib = "*"
+bcrypt = "*"
 
 [requires]
 python_version = "3.7"
