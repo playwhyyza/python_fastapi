@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 fastapi = "*"
 uvicorn = "*"
+pydantic = "*"
 email-validator = "*"
 ujson = "*"
 requests = "*"
